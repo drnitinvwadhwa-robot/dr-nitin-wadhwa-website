@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://drnitinwadhwa.com/sitemap.xml
